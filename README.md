@@ -1,10 +1,25 @@
-- 👋 
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
+- 👋  
+   
 
-<!---
-Cianurosodico/Cianurosodico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Altos conociemtos en: 
+{ Python, Django, Pandas, Data Scientist, AI}
+{ Linux, Webserver, SSH, Remote Managment}
+{ Node js, Angular, APIs, REST APIs, }
+
+
+
+Mis proyectos actuales son: 
+
+NFTS
+{
+
+  Diomedez Diaz : Pack NFT
+  ....
+  ....
+  ....
+
+
+
+
+}
+
